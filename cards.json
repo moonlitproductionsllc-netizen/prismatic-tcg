@@ -1,0 +1,3258 @@
+{
+  "JTD-001": {
+    "id": "JTD-001",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amber Nestling"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Amethyst",
+        "class": "Dinosaur",
+        "strength": 4,
+        "vitals": 3,
+        "image": "https://i.imgur.com/vC4JIXp.png"
+      }
+    },
+    "name": "Amber Nestling",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Amethyst",
+    "class": "Dinosaur",
+    "strength": 4,
+    "vitals": 3
+  },
+  "JTD-002": {
+    "id": "JTD-002",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Archaeomancy"
+        },
+        "type": "Action",
+        "cost": 4,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/D5OgkBk.png"
+      }
+    },
+    "name": "Archaeomancy",
+    "type": "Action",
+    "cost": 4,
+    "identity": "Amethyst"
+  },
+  "JTD-003": {
+    "id": "JTD-003",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cave Bats"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Amethyst",
+        "class": "Bat",
+        "strength": 0,
+        "vitals": 4,
+        "image": "https://i.imgur.com/t0HkTQZ.png"
+      }
+    },
+    "name": "Cave Bats",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Amethyst",
+    "class": "Bat",
+    "strength": 0,
+    "vitals": 4
+  },
+  "JTD-004": {
+    "id": "JTD-004",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cave In"
+        },
+        "type": "Action",
+        "cost": 5,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/QIIfVTs.png"
+      }
+    },
+    "name": "Cave In",
+    "type": "Action",
+    "cost": 5,
+    "identity": "Amethyst"
+  },
+  "JTD-005": {
+    "id": "JTD-005",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dig Straight Down"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/9fkvDAS.png"
+      }
+    },
+    "name": "Dig Straight Down",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Amethyst"
+  },
+  "JTD-006": {
+    "id": "JTD-006",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Excavated Tyrannosaur"
+        },
+        "type": "Character",
+        "cost": 6,
+        "identity": "Amethyst",
+        "class": "Dinosaur",
+        "strength": 14,
+        "vitals": 14,
+        "image": "https://i.imgur.com/i0C7RmI.png"
+      }
+    },
+    "name": "Excavated Tyrannosaur",
+    "type": "Character",
+    "cost": 6,
+    "identity": "Amethyst",
+    "class": "Dinosaur",
+    "strength": 14,
+    "vitals": 14
+  },
+  "JTD-007": {
+    "id": "JTD-007",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gerrin"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Amethyst",
+        "class": "Metahuman, Archaeologist",
+        "shield": 3,
+        "image": "https://i.imgur.com/q12LH5Q.png"
+      },
+      "back": {
+        "name": {
+          "name": "Gerrin, Mad Prehistorian"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Amethyst",
+        "class": "Metahuman, Archaeologist",
+        "strength": 10,
+        "vitals": 10,
+        "shield": 5,
+        "image": "https://i.imgur.com/O65dbyF.png"
+      }
+    },
+    "name": "Gerrin",
+    "type": "Leader",
+    "cost": 0,
+    "identity": "Amethyst",
+    "class": "Metahuman, Archaeologist",
+    "shield": 3
+  },
+  "JTD-008": {
+    "id": "JTD-008",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mass Revival"
+        },
+        "type": "Action",
+        "cost": 9,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/soE2XqE.png"
+      }
+    },
+    "name": "Mass Revival",
+    "type": "Action",
+    "cost": 9,
+    "identity": "Amethyst"
+  },
+  "JTD-009": {
+    "id": "JTD-009",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Meticulous Excavator"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Amethyst",
+        "class": "Metahuman, Archaeologist",
+        "strength": 4,
+        "vitals": 4,
+        "image": "https://i.imgur.com/Mmj0G9O.png"
+      }
+    },
+    "name": "Meticulous Excavator",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Amethyst",
+    "class": "Metahuman, Archaeologist",
+    "strength": 4,
+    "vitals": 4
+  },
+  "JTD-010": {
+    "id": "JTD-010",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Miasma"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/dRBSf2X.png"
+      }
+    },
+    "name": "Miasma",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Amethyst"
+  },
+  "JTD-011": {
+    "id": "JTD-011",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Obre, Unearthed Enigma"
+        },
+        "type": "Main Character",
+        "cost": 3,
+        "identity": "Amethyst",
+        "class": "Metahuman, Noble",
+        "strength": 8,
+        "vitals": 8,
+        "image": "https://i.imgur.com/oLRmdOC.png"
+      }
+    },
+    "name": "Obre, Unearthed Enigma",
+    "type": "Main Character",
+    "cost": 3,
+    "identity": "Amethyst",
+    "class": "Metahuman, Noble",
+    "strength": 8,
+    "vitals": 8
+  },
+  "JTD-012": {
+    "id": "JTD-012",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Precision Driller"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Amethyst",
+        "class": "Human, Engineer",
+        "strength": 10,
+        "vitals": 10,
+        "image": "https://i.imgur.com/3IvImmf.png"
+      }
+    },
+    "name": "Precision Driller",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Amethyst",
+    "class": "Human, Engineer",
+    "strength": 10,
+    "vitals": 10
+  },
+  "JTD-013": {
+    "id": "JTD-013",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reckless Demolitionist"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Amethyst",
+        "class": "Metahuman, Engineer",
+        "strength": 6,
+        "vitals": 5,
+        "image": "https://i.imgur.com/RcXTsjK.png"
+      }
+    },
+    "name": "Reckless Demolitionist",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Amethyst",
+    "class": "Metahuman, Engineer",
+    "strength": 6,
+    "vitals": 5
+  },
+  "JTD-014": {
+    "id": "JTD-014",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Relic Residue"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/SeT1bQS.png"
+      }
+    },
+    "name": "Relic Residue",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Amethyst"
+  },
+  "JTD-015": {
+    "id": "JTD-015",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rescue Diver"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Amethyst",
+        "class": "Metahuman, Archaeologist",
+        "strength": 8,
+        "vitals": 8,
+        "image": "https://i.imgur.com/zijIK0N.png"
+      }
+    },
+    "name": "Rescue Diver",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Amethyst",
+    "class": "Metahuman, Archaeologist",
+    "strength": 8,
+    "vitals": 8
+  },
+  "JTD-016": {
+    "id": "JTD-016",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sift"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/XWRJVzc.png"
+      }
+    },
+    "name": "Sift",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Amethyst"
+  },
+  "JTD-017": {
+    "id": "JTD-017",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strike A Vein"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Amethyst",
+        "image": "https://i.imgur.com/PBm8YW6.png"
+      }
+    },
+    "name": "Strike A Vein",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Amethyst"
+  },
+  "JTD-018": {
+    "id": "JTD-018",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thrashing Raptor"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Amethyst",
+        "class": "Dinosaur",
+        "strength": 9,
+        "vitals": 7,
+        "image": "https://i.imgur.com/uaO61Jh.png"
+      }
+    },
+    "name": "Thrashing Raptor",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Amethyst",
+    "class": "Dinosaur",
+    "strength": 9,
+    "vitals": 7
+  },
+  "JTD-019": {
+    "id": "JTD-019",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasure Hunter"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Amethyst",
+        "class": "Human, Archaeologist",
+        "strength": 4,
+        "vitals": 3,
+        "image": "https://i.imgur.com/dknW7LT.png"
+      }
+    },
+    "name": "Treasure Hunter",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Amethyst",
+    "class": "Human, Archaeologist",
+    "strength": 4,
+    "vitals": 3
+  },
+  "JTD-020": {
+    "id": "JTD-020",
+    "face": {
+      "front": {
+        "name": {
+          "name": "A Major Discovery"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Emerald",
+        "image": "https://i.imgur.com/WWxx3S2.png"
+      }
+    },
+    "name": "A Major Discovery",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Emerald"
+  },
+  "JTD-021": {
+    "id": "JTD-021",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Carnivorous Camellia"
+        },
+        "type": "Character",
+        "cost": 5,
+        "identity": "Emerald",
+        "class": "Plant",
+        "strength": 15,
+        "vitals": 9,
+        "image": "https://i.imgur.com/DrHo9Rt.png"
+      }
+    },
+    "name": "Carnivorous Camellia",
+    "type": "Character",
+    "cost": 5,
+    "identity": "Emerald",
+    "class": "Plant",
+    "strength": 15,
+    "vitals": 9
+  },
+  "JTD-022": {
+    "id": "JTD-022",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Communications Expert"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Emerald",
+        "class": "Human, Bureaucrat",
+        "strength": 7,
+        "vitals": 7,
+        "image": "https://i.imgur.com/FcvQacW.png"
+      }
+    },
+    "name": "Communications Expert",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Emerald",
+    "class": "Human, Bureaucrat",
+    "strength": 7,
+    "vitals": 7
+  },
+  "JTD-023": {
+    "id": "JTD-023",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crop Caretaker"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Emerald",
+        "class": "Human, Researcher",
+        "strength": 1,
+        "vitals": 5,
+        "image": "https://i.imgur.com/RsJSpfv.png"
+      }
+    },
+    "name": "Crop Caretaker",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Emerald",
+    "class": "Human, Researcher",
+    "strength": 1,
+    "vitals": 5
+  },
+  "JTD-024": {
+    "id": "JTD-024",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Curio Case"
+        },
+        "type": "Device",
+        "cost": 1,
+        "identity": "Emerald",
+        "class": "Accessory",
+        "maintenance": 3,
+        "image": "https://i.imgur.com/Hw9RMzj.png"
+      }
+    },
+    "name": "Curio Case",
+    "type": "Device",
+    "cost": 1,
+    "identity": "Emerald",
+    "class": "Accessory",
+    "maintenance": 3
+  },
+  "JTD-025": {
+    "id": "JTD-025",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Diseased Swarm"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Emerald",
+        "class": "Insect",
+        "strength": 1,
+        "vitals": 2,
+        "image": "https://i.imgur.com/NNEV5fw.png"
+      }
+    },
+    "name": "Diseased Swarm",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Emerald",
+    "class": "Insect",
+    "strength": 1,
+    "vitals": 2
+  },
+  "JTD-026": {
+    "id": "JTD-026",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Electro Pulse"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Emerald",
+        "image": "https://i.imgur.com/ejyks6W.png"
+      }
+    },
+    "name": "Electro Pulse",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Emerald"
+  },
+  "JTD-027": {
+    "id": "JTD-027",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Escape Pod"
+        },
+        "type": "Device",
+        "cost": 2,
+        "identity": "Emerald",
+        "class": "Machine",
+        "maintenance": 2,
+        "image": "https://i.imgur.com/4N384qi.png"
+      }
+    },
+    "name": "Escape Pod",
+    "type": "Device",
+    "cost": 2,
+    "identity": "Emerald",
+    "class": "Machine",
+    "maintenance": 2
+  },
+  "JTD-028": {
+    "id": "JTD-028",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Expedition Guide"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Emerald",
+        "class": "Human, Survivalist",
+        "strength": 9,
+        "vitals": 9,
+        "image": "https://i.imgur.com/zI9yRno.png"
+      }
+    },
+    "name": "Expedition Guide",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Emerald",
+    "class": "Human, Survivalist",
+    "strength": 9,
+    "vitals": 9
+  },
+  "JTD-029": {
+    "id": "JTD-029",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fisko, Triage Adept"
+        },
+        "type": "Main Character",
+        "cost": 3,
+        "identity": "Emerald",
+        "class": "Human, Survivalist",
+        "strength": 8,
+        "vitals": 8,
+        "image": "https://i.imgur.com/AcZCqrS.png"
+      }
+    },
+    "name": "Fisko, Triage Adept",
+    "type": "Main Character",
+    "cost": 3,
+    "identity": "Emerald",
+    "class": "Human, Survivalist",
+    "strength": 8,
+    "vitals": 8
+  },
+  "JTD-030": {
+    "id": "JTD-030",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Miles"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Emerald",
+        "class": "Human, Researcher",
+        "shield": 3,
+        "image": "https://i.imgur.com/f81MvgR.png"
+      },
+      "back": {
+        "name": {
+          "name": "Miles, Field Biologist"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Emerald",
+        "class": "Human, Survivalist",
+        "strength": 10,
+        "vitals": 10,
+        "shield": 5,
+        "image": "https://i.imgur.com/XNrnX2T.png"
+      }
+    },
+    "name": "Miles",
+    "type": "Leader",
+    "cost": 0,
+    "identity": "Emerald",
+    "class": "Human, Researcher",
+    "shield": 3
+  },
+  "JTD-031": {
+    "id": "JTD-031",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Overgrowth Coatl"
+        },
+        "type": "Character",
+        "cost": 9,
+        "identity": "Emerald",
+        "class": "Plant, Serpent",
+        "strength": 12,
+        "vitals": 12,
+        "image": "https://i.imgur.com/387EHBq.png"
+      }
+    },
+    "name": "Overgrowth Coatl",
+    "type": "Character",
+    "cost": 9,
+    "identity": "Emerald",
+    "class": "Plant, Serpent",
+    "strength": 12,
+    "vitals": 12
+  },
+  "JTD-032": {
+    "id": "JTD-032",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sprout Toad"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Emerald",
+        "class": "Plant, Toad",
+        "strength": 3,
+        "vitals": 4,
+        "image": "https://i.imgur.com/800yqc6.png"
+      }
+    },
+    "name": "Sprout Toad",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Emerald",
+    "class": "Plant, Toad",
+    "strength": 3,
+    "vitals": 4
+  },
+  "JTD-033": {
+    "id": "JTD-033",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Supply Bot"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Emerald",
+        "class": "Machine, Bureaucrat",
+        "strength": 6,
+        "vitals": 6,
+        "image": "https://i.imgur.com/K2RD5zy.png"
+      }
+    },
+    "name": "Supply Bot",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Emerald",
+    "class": "Machine, Bureaucrat",
+    "strength": 6,
+    "vitals": 6
+  },
+  "JTD-034": {
+    "id": "JTD-034",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tactician"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Emerald",
+        "class": "Human, Survivalist",
+        "strength": 4,
+        "vitals": 4,
+        "image": "https://i.imgur.com/T3EbWjK.png"
+      }
+    },
+    "name": "Tactician",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Emerald",
+    "class": "Human, Survivalist",
+    "strength": 4,
+    "vitals": 4
+  },
+  "JTD-035": {
+    "id": "JTD-035",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Technicolor Florak"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Emerald",
+        "class": "Bird",
+        "strength": 3,
+        "vitals": 3,
+        "image": "https://i.imgur.com/65pLnTp.png"
+      }
+    },
+    "name": "Technicolor Florak",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Emerald",
+    "class": "Bird",
+    "strength": 3,
+    "vitals": 3
+  },
+  "JTD-036": {
+    "id": "JTD-036",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tectonic Tortoise"
+        },
+        "type": "Character",
+        "cost": 6,
+        "identity": "Emerald",
+        "class": "Plant, Tortoise",
+        "strength": 8,
+        "vitals": 20,
+        "image": "https://i.imgur.com/69p8Cgz.png"
+      }
+    },
+    "name": "Tectonic Tortoise",
+    "type": "Character",
+    "cost": 6,
+    "identity": "Emerald",
+    "class": "Plant, Tortoise",
+    "strength": 8,
+    "vitals": 20
+  },
+  "JTD-037": {
+    "id": "JTD-037",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Veto"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Emerald",
+        "image": "https://i.imgur.com/GAGhyhR.png"
+      }
+    },
+    "name": "Veto",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Emerald"
+  },
+  "JTD-038": {
+    "id": "JTD-038",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Xaal Assassin"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Emerald",
+        "class": "Xaal, Survivalist",
+        "strength": 2,
+        "vitals": 7,
+        "image": "https://i.imgur.com/qdfp657.png"
+      }
+    },
+    "name": "Xaal Assassin",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Emerald",
+    "class": "Xaal, Survivalist",
+    "strength": 2,
+    "vitals": 7
+  },
+  "JTD-039": {
+    "id": "JTD-039",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Adrenaline Junkie"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Ruby",
+        "class": "Metahuman, Marauder",
+        "strength": 3,
+        "vitals": 3,
+        "image": "https://i.imgur.com/b9jdc1v.png"
+      }
+    },
+    "name": "Adrenaline Junkie",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Ruby",
+    "class": "Metahuman, Marauder",
+    "strength": 3,
+    "vitals": 3
+  },
+  "JTD-040": {
+    "id": "JTD-040",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Arms Dealer"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Ruby",
+        "class": "Human, Merchant",
+        "strength": 7,
+        "vitals": 7,
+        "image": "https://i.imgur.com/xX4ERfp.png"
+      }
+    },
+    "name": "Arms Dealer",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Ruby",
+    "class": "Human, Merchant",
+    "strength": 7,
+    "vitals": 7
+  },
+  "JTD-041": {
+    "id": "JTD-041",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bareknuckle Brawler"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 9,
+        "vitals": 8,
+        "image": "https://i.imgur.com/yLcagDp.png"
+      }
+    },
+    "name": "Bareknuckle Brawler",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "strength": 9,
+    "vitals": 8
+  },
+  "JTD-042": {
+    "id": "JTD-042",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Buccaneer Bot"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Ruby",
+        "class": "Machine, Marauder",
+        "strength": 8,
+        "vitals": 8,
+        "image": "https://i.imgur.com/CfWBqr4.png"
+      }
+    },
+    "name": "Buccaneer Bot",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Ruby",
+    "class": "Machine, Marauder",
+    "strength": 8,
+    "vitals": 8
+  },
+  "JTD-043": {
+    "id": "JTD-043",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Burly Marauder"
+        },
+        "type": "Character",
+        "cost": 5,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 11,
+        "vitals": 11,
+        "image": "https://i.imgur.com/fZ5ihMy.png"
+      }
+    },
+    "name": "Burly Marauder",
+    "type": "Character",
+    "cost": 5,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "strength": 11,
+    "vitals": 11
+  },
+  "JTD-044": {
+    "id": "JTD-044",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crimson Blaster"
+        },
+        "type": "Device",
+        "cost": 1,
+        "identity": "Ruby",
+        "class": "Weapon",
+        "maintenance": 3,
+        "image": "https://i.imgur.com/eQub2WS.png"
+      }
+    },
+    "name": "Crimson Blaster",
+    "type": "Device",
+    "cost": 1,
+    "identity": "Ruby",
+    "class": "Weapon",
+    "maintenance": 3
+  },
+  "JTD-045": {
+    "id": "JTD-045",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cull"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Ruby",
+        "image": "https://i.imgur.com/oBSHhHv.png"
+      }
+    },
+    "name": "Cull",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Ruby"
+  },
+  "JTD-046": {
+    "id": "JTD-046",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Energy Blast"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Ruby",
+        "image": "https://i.imgur.com/QD5qg0b.png"
+      }
+    },
+    "name": "Energy Blast",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Ruby"
+  },
+  "JTD-047": {
+    "id": "JTD-047",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flaretooth Kannid"
+        },
+        "type": "Character",
+        "cost": 6,
+        "identity": "Ruby",
+        "class": "Wolf, Horror",
+        "strength": 15,
+        "vitals": 9,
+        "image": "https://i.imgur.com/n82G3cm.png"
+      }
+    },
+    "name": "Flaretooth Kannid",
+    "type": "Character",
+    "cost": 6,
+    "identity": "Ruby",
+    "class": "Wolf, Horror",
+    "strength": 15,
+    "vitals": 9
+  },
+  "JTD-048": {
+    "id": "JTD-048",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Infiltrate"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Ruby",
+        "image": "https://i.imgur.com/0QCgOxZ.png"
+      }
+    },
+    "name": "Infiltrate",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Ruby"
+  },
+  "JTD-049": {
+    "id": "JTD-049",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Iron Raider"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 3,
+        "vitals": 3,
+        "image": "https://i.imgur.com/UT5ruow.png"
+      }
+    },
+    "name": "Iron Raider",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "strength": 3,
+    "vitals": 3
+  },
+  "JTD-050": {
+    "id": "JTD-050",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jetpack Jammer"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Ruby",
+        "class": "Metahuman, Marauder",
+        "strength": 8,
+        "vitals": 3,
+        "image": "https://i.imgur.com/0gwU2Mz.png"
+      }
+    },
+    "name": "Jetpack Jammer",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Ruby",
+    "class": "Metahuman, Marauder",
+    "strength": 8,
+    "vitals": 3
+  },
+  "JTD-051": {
+    "id": "JTD-051",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Loot"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Ruby",
+        "image": "https://i.imgur.com/KuZuyeD.png"
+      }
+    },
+    "name": "Loot",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Ruby"
+  },
+  "JTD-052": {
+    "id": "JTD-052",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Luka’s Cannoneer"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 12,
+        "vitals": 8,
+        "image": "https://i.imgur.com/Zz9CrBs.png"
+      }
+    },
+    "name": "Luka’s Cannoneer",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "strength": 12,
+    "vitals": 8
+  },
+  "JTD-053": {
+    "id": "JTD-053",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Luka"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "shield": 3,
+        "image": "https://i.imgur.com/SvOaCQf.png"
+      },
+      "back": {
+        "name": {
+          "name": "Luka, Marauder Captain"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 10,
+        "vitals": 10,
+        "shield": 5,
+        "image": "https://i.imgur.com/sECXod5.png"
+      }
+    },
+    "name": "Luka",
+    "type": "Leader",
+    "cost": 0,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "shield": 3
+  },
+  "JTD-054": {
+    "id": "JTD-054",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Master Thief"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 6,
+        "vitals": 4,
+        "image": "https://i.imgur.com/HMJ2WC3.png"
+      }
+    },
+    "name": "Master Thief",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "strength": 6,
+    "vitals": 4
+  },
+  "JTD-055": {
+    "id": "JTD-055",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nezz, Sky Sniper"
+        },
+        "type": "Main Character",
+        "cost": 3,
+        "identity": "Ruby",
+        "class": "Human, Marauder",
+        "strength": 7,
+        "vitals": 4,
+        "image": "https://i.imgur.com/qi5YxMC.png"
+      }
+    },
+    "name": "Nezz, Sky Sniper",
+    "type": "Main Character",
+    "cost": 3,
+    "identity": "Ruby",
+    "class": "Human, Marauder",
+    "strength": 7,
+    "vitals": 4
+  },
+  "JTD-056": {
+    "id": "JTD-056",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ship Scrapper"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Ruby",
+        "class": "Metahuman, Survivalist",
+        "strength": 5,
+        "vitals": 4,
+        "image": "https://i.imgur.com/7XbYF8v.png"
+      }
+    },
+    "name": "Ship Scrapper",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Ruby",
+    "class": "Metahuman, Survivalist",
+    "strength": 5,
+    "vitals": 4
+  },
+  "JTD-057": {
+    "id": "JTD-057",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sketchy Salesman"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Ruby",
+        "class": "Metahuman, Merchant",
+        "strength": 4,
+        "vitals": 3,
+        "image": "https://i.imgur.com/gI1pBj0.png"
+      }
+    },
+    "name": "Sketchy Salesman",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Ruby",
+    "class": "Metahuman, Merchant",
+    "strength": 4,
+    "vitals": 3
+  },
+  "JTD-058": {
+    "id": "JTD-058",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ambush"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/qjP5Nmd.png"
+      }
+    },
+    "name": "Ambush",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Sapphire"
+  },
+  "JTD-059": {
+    "id": "JTD-059",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blight Tender"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Sapphire",
+        "class": "Xaal, Peon",
+        "strength": 1,
+        "vitals": 5,
+        "image": "https://i.imgur.com/g0KWDfr.png"
+      }
+    },
+    "name": "Blight Tender",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Sapphire",
+    "class": "Xaal, Peon",
+    "strength": 1,
+    "vitals": 5
+  },
+  "JTD-060": {
+    "id": "JTD-060",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Contaminated Crusher"
+        },
+        "type": "Character",
+        "cost": 5,
+        "identity": "Sapphire",
+        "class": "Machine, Bureaucrat",
+        "strength": 11,
+        "vitals": 11,
+        "image": "https://i.imgur.com/XRXWzBu.png"
+      }
+    },
+    "name": "Contaminated Crusher",
+    "type": "Character",
+    "cost": 5,
+    "identity": "Sapphire",
+    "class": "Machine, Bureaucrat",
+    "strength": 11,
+    "vitals": 11
+  },
+  "JTD-061": {
+    "id": "JTD-061",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cryoprison"
+        },
+        "type": "Device",
+        "cost": 1,
+        "identity": "Sapphire",
+        "class": "Landmark",
+        "maintenance": 3,
+        "image": "https://i.imgur.com/JTnW9Sl.png"
+      }
+    },
+    "name": "Cryoprison",
+    "type": "Device",
+    "cost": 1,
+    "identity": "Sapphire",
+    "class": "Landmark",
+    "maintenance": 3
+  },
+  "JTD-062": {
+    "id": "JTD-062",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ejection"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/uuduASQ.png"
+      }
+    },
+    "name": "Ejection",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Sapphire"
+  },
+  "JTD-063": {
+    "id": "JTD-063",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kaala"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Sapphire",
+        "class": "Xaal, Noble",
+        "shield": 3,
+        "image": "https://i.imgur.com/zjNhKCg.png"
+      },
+      "back": {
+        "name": {
+          "name": "Kaala, Xaal Matriarch"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Sapphire",
+        "class": "Xaal, Horror",
+        "strength": 10,
+        "vitals": 10,
+        "shield": 5,
+        "image": "https://i.imgur.com/2GO8tDy.png"
+      }
+    },
+    "name": "Kaala",
+    "type": "Leader",
+    "cost": 0,
+    "identity": "Sapphire",
+    "class": "Xaal, Noble",
+    "shield": 3
+  },
+  "JTD-064": {
+    "id": "JTD-064",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lethal Strike"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/r1hQOqg.png"
+      }
+    },
+    "name": "Lethal Strike",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Sapphire"
+  },
+  "JTD-065": {
+    "id": "JTD-065",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Maaglo, Unleashed"
+        },
+        "type": "Main Character",
+        "cost": 3,
+        "identity": "Sapphire",
+        "class": "Xaal, Noble",
+        "strength": 10,
+        "vitals": 10,
+        "image": "https://i.imgur.com/1lzerGK.png"
+      }
+    },
+    "name": "Maaglo, Unleashed",
+    "type": "Main Character",
+    "cost": 3,
+    "identity": "Sapphire",
+    "class": "Xaal, Noble",
+    "strength": 10,
+    "vitals": 10
+  },
+  "JTD-066": {
+    "id": "JTD-066",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mutated Host"
+        },
+        "type": "Character",
+        "cost": 5,
+        "identity": "Sapphire",
+        "class": "Metahuman, Horror",
+        "strength": 13,
+        "vitals": 11,
+        "image": "https://i.imgur.com/sGXcqAw.png"
+      }
+    },
+    "name": "Mutated Host",
+    "type": "Character",
+    "cost": 5,
+    "identity": "Sapphire",
+    "class": "Metahuman, Horror",
+    "strength": 13,
+    "vitals": 11
+  },
+  "JTD-067": {
+    "id": "JTD-067",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Probe Mind"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/fHDLjhH.png"
+      }
+    },
+    "name": "Probe Mind",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Sapphire"
+  },
+  "JTD-068": {
+    "id": "JTD-068",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Proximity Pustules"
+        },
+        "type": "Device",
+        "cost": 4,
+        "identity": "Sapphire",
+        "class": "Biomatter",
+        "maintenance": 10,
+        "image": "https://i.imgur.com/sb8wxxG.png"
+      }
+    },
+    "name": "Proximity Pustules",
+    "type": "Device",
+    "cost": 4,
+    "identity": "Sapphire",
+    "class": "Biomatter",
+    "maintenance": 10
+  },
+  "JTD-069": {
+    "id": "JTD-069",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ravenous Constrictor"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Sapphire",
+        "class": "Xaal, Peon",
+        "strength": 5,
+        "vitals": 4,
+        "image": "https://i.imgur.com/40NUknQ.png"
+      }
+    },
+    "name": "Ravenous Constrictor",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Sapphire",
+    "class": "Xaal, Peon",
+    "strength": 5,
+    "vitals": 4
+  },
+  "JTD-070": {
+    "id": "JTD-070",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Starved Scavenger"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Sapphire",
+        "class": "Xaal, Peon",
+        "strength": 7,
+        "vitals": 4,
+        "image": "https://i.imgur.com/i6VJKWr.png"
+      }
+    },
+    "name": "Starved Scavenger",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Sapphire",
+    "class": "Xaal, Peon",
+    "strength": 7,
+    "vitals": 4
+  },
+  "JTD-071": {
+    "id": "JTD-071",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stiff Scales"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/ykSYu0A.png"
+      }
+    },
+    "name": "Stiff Scales",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Sapphire"
+  },
+  "JTD-072": {
+    "id": "JTD-072",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Subterranean Slitherer"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Sapphire",
+        "class": "Xaal, Horror",
+        "strength": 5,
+        "vitals": 3,
+        "image": "https://i.imgur.com/TyyC8fY.png"
+      }
+    },
+    "name": "Subterranean Slitherer",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Sapphire",
+    "class": "Xaal, Horror",
+    "strength": 5,
+    "vitals": 3
+  },
+  "JTD-073": {
+    "id": "JTD-073",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Terrify"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/0jqGqu3.png"
+      }
+    },
+    "name": "Terrify",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Sapphire"
+  },
+  "JTD-074": {
+    "id": "JTD-074",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wave of Pheromones"
+        },
+        "type": "Action",
+        "cost": 6,
+        "identity": "Sapphire",
+        "image": "https://i.imgur.com/TifmjGE.png"
+      }
+    },
+    "name": "Wave of Pheromones",
+    "type": "Action",
+    "cost": 6,
+    "identity": "Sapphire"
+  },
+  "JTD-075": {
+    "id": "JTD-075",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Xaal Decimator"
+        },
+        "type": "Character",
+        "cost": 7,
+        "identity": "Sapphire",
+        "class": "Xaal, Horror",
+        "strength": 15,
+        "vitals": 14,
+        "image": "https://i.imgur.com/Xnif7Nw.png"
+      }
+    },
+    "name": "Xaal Decimator",
+    "type": "Character",
+    "cost": 7,
+    "identity": "Sapphire",
+    "class": "Xaal, Horror",
+    "strength": 15,
+    "vitals": 14
+  },
+  "JTD-076": {
+    "id": "JTD-076",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Xaal Troopers"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Sapphire",
+        "class": "Xaal, Peon",
+        "strength": 8,
+        "vitals": 7,
+        "image": "https://i.imgur.com/rYVOyce.png"
+      }
+    },
+    "name": "Xaal Troopers",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Sapphire",
+    "class": "Xaal, Peon",
+    "strength": 8,
+    "vitals": 7
+  },
+  "JTD-077": {
+    "id": "JTD-077",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Abbess of Wires"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Topaz",
+        "class": "Human, Priestess",
+        "strength": 3,
+        "vitals": 6,
+        "image": "https://i.imgur.com/HcSVdht.png"
+      }
+    },
+    "name": "Abbess of Wires",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Topaz",
+    "class": "Human, Priestess",
+    "strength": 3,
+    "vitals": 6
+  },
+  "JTD-078": {
+    "id": "JTD-078",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Almsgiver"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Topaz",
+        "class": "Human, Disciple",
+        "strength": 3,
+        "vitals": 3,
+        "image": "https://i.imgur.com/NQn4WGw.png"
+      }
+    },
+    "name": "Almsgiver",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Topaz",
+    "class": "Human, Disciple",
+    "strength": 3,
+    "vitals": 3
+  },
+  "JTD-079": {
+    "id": "JTD-079",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Altar of the Crucible"
+        },
+        "type": "Device",
+        "cost": 1,
+        "identity": "Topaz",
+        "class": "Landmark",
+        "maintenance": 5,
+        "image": "https://i.imgur.com/eytleG4.png"
+      }
+    },
+    "name": "Altar of the Crucible",
+    "type": "Device",
+    "cost": 1,
+    "identity": "Topaz",
+    "class": "Landmark",
+    "maintenance": 5
+  },
+  "JTD-080": {
+    "id": "JTD-080",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ascended Apostle"
+        },
+        "type": "Character",
+        "cost": 5,
+        "identity": "Topaz",
+        "class": "Metahuman, Angel",
+        "strength": 10,
+        "vitals": 12,
+        "image": "https://i.imgur.com/A0sBVT5.png"
+      }
+    },
+    "name": "Ascended Apostle",
+    "type": "Character",
+    "cost": 5,
+    "identity": "Topaz",
+    "class": "Metahuman, Angel",
+    "strength": 10,
+    "vitals": 12
+  },
+  "JTD-081": {
+    "id": "JTD-081",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Awakened Automaton"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Topaz",
+        "class": "Machine, Monk",
+        "strength": 2,
+        "vitals": 9,
+        "image": "https://i.imgur.com/u6NYs9g.png"
+      }
+    },
+    "name": "Awakened Automaton",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Topaz",
+    "class": "Machine, Monk",
+    "strength": 2,
+    "vitals": 9
+  },
+  "JTD-082": {
+    "id": "JTD-082",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Baptize in Oil"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Topaz",
+        "image": "https://i.imgur.com/Y2ZN7MQ.png"
+      }
+    },
+    "name": "Baptize in Oil",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Topaz"
+  },
+  "JTD-083": {
+    "id": "JTD-083",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Busker"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Topaz",
+        "class": "Human, Performer",
+        "strength": 3,
+        "vitals": 3,
+        "image": "https://i.imgur.com/8OxXVf9.png"
+      }
+    },
+    "name": "Busker",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Topaz",
+    "class": "Human, Performer",
+    "strength": 3,
+    "vitals": 3
+  },
+  "JTD-084": {
+    "id": "JTD-084",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Confession"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Topaz",
+        "image": "https://i.imgur.com/ReCNVPl.png"
+      }
+    },
+    "name": "Confession",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Topaz"
+  },
+  "JTD-085": {
+    "id": "JTD-085",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Desperate Prayer"
+        },
+        "type": "Action",
+        "cost": 1,
+        "identity": "Topaz",
+        "image": "https://i.imgur.com/PhtZ8Y8.png"
+      }
+    },
+    "name": "Desperate Prayer",
+    "type": "Action",
+    "cost": 1,
+    "identity": "Topaz"
+  },
+  "JTD-086": {
+    "id": "JTD-086",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dismantled Martyr"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Topaz",
+        "class": "Metahuman, Priestess",
+        "strength": 2,
+        "vitals": 4,
+        "image": "https://i.imgur.com/ePwgYby.png"
+      }
+    },
+    "name": "Dismantled Martyr",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Topaz",
+    "class": "Metahuman, Priestess",
+    "strength": 2,
+    "vitals": 4
+  },
+  "JTD-087": {
+    "id": "JTD-087",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heart of the Cathedral"
+        },
+        "type": "Device",
+        "cost": 4,
+        "identity": "Topaz",
+        "class": "Machine",
+        "maintenance": 10,
+        "image": "https://i.imgur.com/PocIlZJ.png"
+      }
+    },
+    "name": "Heart of the Cathedral",
+    "type": "Device",
+    "cost": 4,
+    "identity": "Topaz",
+    "class": "Machine",
+    "maintenance": 10
+  },
+  "JTD-088": {
+    "id": "JTD-088",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mainframe Devotee"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Topaz",
+        "class": "Human, Priestess",
+        "strength": 3,
+        "vitals": 5,
+        "image": "https://i.imgur.com/mezN55b.png"
+      }
+    },
+    "name": "Mainframe Devotee",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Topaz",
+    "class": "Human, Priestess",
+    "strength": 3,
+    "vitals": 5
+  },
+  "JTD-089": {
+    "id": "JTD-089",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Manus Dei"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Topaz",
+        "class": "Metahuman, Priestess",
+        "strength": 2,
+        "vitals": 8,
+        "image": "https://i.imgur.com/e6ocpBJ.png"
+      }
+    },
+    "name": "Manus Dei",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Topaz",
+    "class": "Metahuman, Priestess",
+    "strength": 2,
+    "vitals": 8
+  },
+  "JTD-090": {
+    "id": "JTD-090",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Overcharged Gauntlet"
+        },
+        "type": "Device",
+        "cost": 1,
+        "identity": "Topaz",
+        "class": "Weapon",
+        "maintenance": 4,
+        "image": "https://i.imgur.com/iv4EZXk.png"
+      }
+    },
+    "name": "Overcharged Gauntlet",
+    "type": "Device",
+    "cost": 1,
+    "identity": "Topaz",
+    "class": "Weapon",
+    "maintenance": 4
+  },
+  "JTD-091": {
+    "id": "JTD-091",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Raizma"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Topaz",
+        "class": "Metahuman, Noble",
+        "shield": 3,
+        "image": "https://i.imgur.com/l95f2PC.png"
+      },
+      "back": {
+        "name": {
+          "name": "Raizma, Augmented Apostle"
+        },
+        "type": "Leader",
+        "cost": 0,
+        "identity": "Topaz",
+        "class": "Metahuman, Noble",
+        "strength": 10,
+        "vitals": 10,
+        "shield": 5,
+        "image": "https://i.imgur.com/lxRweRN.png"
+      }
+    },
+    "name": "Raizma",
+    "type": "Leader",
+    "cost": 0,
+    "identity": "Topaz",
+    "class": "Metahuman, Noble",
+    "shield": 3
+  },
+  "JTD-092": {
+    "id": "JTD-092",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Robotic Recruiter"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Topaz",
+        "class": "Machine, Priestess",
+        "strength": 6,
+        "vitals": 8,
+        "image": "https://i.imgur.com/Sn8U3ON.png"
+      }
+    },
+    "name": "Robotic Recruiter",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Topaz",
+    "class": "Machine, Priestess",
+    "strength": 6,
+    "vitals": 8
+  },
+  "JTD-093": {
+    "id": "JTD-093",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Royal Alpha"
+        },
+        "type": "Character",
+        "cost": 6,
+        "identity": "Topaz",
+        "class": "Plant, Wolf",
+        "strength": 15,
+        "vitals": 13,
+        "image": "https://i.imgur.com/7zyEfCl.png"
+      }
+    },
+    "name": "Royal Alpha",
+    "type": "Character",
+    "cost": 6,
+    "identity": "Topaz",
+    "class": "Plant, Wolf",
+    "strength": 15,
+    "vitals": 13
+  },
+  "JTD-094": {
+    "id": "JTD-094",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rubbled Devotee"
+        },
+        "type": "Character",
+        "cost": 1,
+        "identity": "Topaz",
+        "class": "Tektin, Disciple",
+        "strength": 3,
+        "vitals": 4,
+        "image": "https://i.imgur.com/7vCAwWs.png"
+      }
+    },
+    "name": "Rubbled Devotee",
+    "type": "Character",
+    "cost": 1,
+    "identity": "Topaz",
+    "class": "Tektin, Disciple",
+    "strength": 3,
+    "vitals": 4
+  },
+  "JTD-095": {
+    "id": "JTD-095",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shaya, Machinist Marvel"
+        },
+        "type": "Main Character",
+        "cost": 3,
+        "identity": "Topaz",
+        "class": "Metahuman, Engineer",
+        "strength": 8,
+        "vitals": 8,
+        "image": "https://i.imgur.com/XEzlcyY.png"
+      }
+    },
+    "name": "Shaya, Machinist Marvel",
+    "type": "Main Character",
+    "cost": 3,
+    "identity": "Topaz",
+    "class": "Metahuman, Engineer",
+    "strength": 8,
+    "vitals": 8
+  },
+  "JTD-096": {
+    "id": "JTD-096",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Excavation Debris"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Amethyst, Emerald",
+        "image": "https://i.imgur.com/T2VBQWP.png"
+      }
+    },
+    "name": "Excavation Debris",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Amethyst, Emerald"
+  },
+  "JTD-097": {
+    "id": "JTD-097",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Site Surveyor"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Amethyst, Emerald",
+        "class": "Human, Bureacrat",
+        "strength": 7,
+        "vitals": 7,
+        "image": "https://i.imgur.com/6CECB32.png"
+      }
+    },
+    "name": "Site Surveyor",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Amethyst, Emerald",
+    "class": "Human, Bureacrat",
+    "strength": 7,
+    "vitals": 7
+  },
+  "JTD-098": {
+    "id": "JTD-098",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stolen Dozer"
+        },
+        "type": "Character",
+        "cost": 7,
+        "identity": "Amethyst, Emerald",
+        "class": "Machine, Archaeologist",
+        "strength": 15,
+        "vitals": 15,
+        "image": "https://i.imgur.com/C89Kvtz.png"
+      }
+    },
+    "name": "Stolen Dozer",
+    "type": "Character",
+    "cost": 7,
+    "identity": "Amethyst, Emerald",
+    "class": "Machine, Archaeologist",
+    "strength": 15,
+    "vitals": 15
+  },
+  "JTD-099": {
+    "id": "JTD-099",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Aftershock"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Amethyst, Ruby",
+        "image": "https://i.imgur.com/yKdeacg.png"
+      }
+    },
+    "name": "Aftershock",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Amethyst, Ruby"
+  },
+  "JTD-100": {
+    "id": "JTD-100",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cursed Relic"
+        },
+        "type": "Device",
+        "cost": 3,
+        "identity": "Amethyst, Ruby",
+        "class": "Accessory",
+        "maintenance": 7,
+        "image": "https://i.imgur.com/bsoQdrL.png"
+      }
+    },
+    "name": "Cursed Relic",
+    "type": "Device",
+    "cost": 3,
+    "identity": "Amethyst, Ruby",
+    "class": "Accessory",
+    "maintenance": 7
+  },
+  "JTD-101": {
+    "id": "JTD-101",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Phantom Thief"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Amethyst, Ruby",
+        "class": "Spirit, Marauder",
+        "strength": 8,
+        "vitals": 7,
+        "image": "https://i.imgur.com/YbcX3BW.png"
+      }
+    },
+    "name": "Phantom Thief",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Amethyst, Ruby",
+    "class": "Spirit, Marauder",
+    "strength": 8,
+    "vitals": 7
+  },
+  "JTD-102": {
+    "id": "JTD-102",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ancient Xaal"
+        },
+        "type": "Character",
+        "cost": 9,
+        "identity": "Amethyst, Sapphire",
+        "class": "Xaal, Horror",
+        "strength": 16,
+        "vitals": 16,
+        "image": "https://i.imgur.com/1WJqPiA.png"
+      }
+    },
+    "name": "Ancient Xaal",
+    "type": "Character",
+    "cost": 9,
+    "identity": "Amethyst, Sapphire",
+    "class": "Xaal, Horror",
+    "strength": 16,
+    "vitals": 16
+  },
+  "JTD-103": {
+    "id": "JTD-103",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Assimilate"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Amethyst, Sapphire",
+        "image": "https://i.imgur.com/LUmDpCr.png"
+      }
+    },
+    "name": "Assimilate",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Amethyst, Sapphire"
+  },
+  "JTD-104": {
+    "id": "JTD-104",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Deformed Disciple"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Amethyst, Sapphire",
+        "class": "Metahuman, Disciple",
+        "strength": 10,
+        "vitals": 10,
+        "image": "https://i.imgur.com/ITeOXFT.png"
+      }
+    },
+    "name": "Deformed Disciple",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Amethyst, Sapphire",
+    "class": "Metahuman, Disciple",
+    "strength": 10,
+    "vitals": 10
+  },
+  "JTD-105": {
+    "id": "JTD-105",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cardinal of Cruelty"
+        },
+        "type": "Character",
+        "cost": 4,
+        "identity": "Amethyst, Topaz",
+        "class": "Human, Disciple",
+        "strength": 10,
+        "vitals": 10,
+        "image": "https://i.imgur.com/XUX8rtT.png"
+      }
+    },
+    "name": "Cardinal of Cruelty",
+    "type": "Character",
+    "cost": 4,
+    "identity": "Amethyst, Topaz",
+    "class": "Human, Disciple",
+    "strength": 10,
+    "vitals": 10
+  },
+  "JTD-106": {
+    "id": "JTD-106",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eulogist"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Amethyst, Topaz",
+        "class": "Human, Disciple",
+        "strength": 4,
+        "vitals": 4,
+        "image": "https://i.imgur.com/iISs6M9.png"
+      }
+    },
+    "name": "Eulogist",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Amethyst, Topaz",
+    "class": "Human, Disciple",
+    "strength": 4,
+    "vitals": 4
+  },
+  "JTD-107": {
+    "id": "JTD-107",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Excommunicate"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Amethyst, Topaz",
+        "image": "https://i.imgur.com/aq5xfj9.png"
+      }
+    },
+    "name": "Excommunicate",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Amethyst, Topaz"
+  },
+  "JTD-108": {
+    "id": "JTD-108",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Adamant Appraiser"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Emerald, Ruby",
+        "class": "Human, Merchant",
+        "strength": 6,
+        "vitals": 6,
+        "image": "https://i.imgur.com/6oyC2kd.png"
+      }
+    },
+    "name": "Adamant Appraiser",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Emerald, Ruby",
+    "class": "Human, Merchant",
+    "strength": 6,
+    "vitals": 6
+  },
+  "JTD-109": {
+    "id": "JTD-109",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Equalize"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Emerald, Ruby",
+        "image": "https://i.imgur.com/gNTdHPN.png"
+      }
+    },
+    "name": "Equalize",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Emerald, Ruby"
+  },
+  "JTD-110": {
+    "id": "JTD-110",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Galactic Communicator"
+        },
+        "type": "Device",
+        "cost": 2,
+        "identity": "Emerald, Ruby",
+        "class": "Accessory",
+        "maintenance": 5,
+        "image": "https://i.imgur.com/Hslc2oV.png"
+      }
+    },
+    "name": "Galactic Communicator",
+    "type": "Device",
+    "cost": 2,
+    "identity": "Emerald, Ruby",
+    "class": "Accessory",
+    "maintenance": 5
+  },
+  "JTD-111": {
+    "id": "JTD-111",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bandroid"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Emerald, Sapphire",
+        "class": "Machine, Bureaucrat",
+        "strength": 6,
+        "vitals": 6,
+        "image": "https://i.imgur.com/3BNfivZ.png"
+      }
+    },
+    "name": "Bandroid",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Emerald, Sapphire",
+    "class": "Machine, Bureaucrat",
+    "strength": 6,
+    "vitals": 6
+  },
+  "JTD-112": {
+    "id": "JTD-112",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Natural Selection"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Emerald, Sapphire",
+        "image": "https://i.imgur.com/kBYnVfa.png"
+      }
+    },
+    "name": "Natural Selection",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Emerald, Sapphire"
+  },
+  "JTD-113": {
+    "id": "JTD-113",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Security Sentinel"
+        },
+        "type": "Character",
+        "cost": 7,
+        "identity": "Emerald, Sapphire",
+        "class": "Machine, Bureaucrat",
+        "strength": 16,
+        "vitals": 14,
+        "image": "https://i.imgur.com/G2uv9KK.png"
+      }
+    },
+    "name": "Security Sentinel",
+    "type": "Character",
+    "cost": 7,
+    "identity": "Emerald, Sapphire",
+    "class": "Machine, Bureaucrat",
+    "strength": 16,
+    "vitals": 14
+  },
+  "JTD-114": {
+    "id": "JTD-114",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Anachronize"
+        },
+        "type": "Action",
+        "cost": 5,
+        "identity": "Emerald, Topaz",
+        "image": "https://i.imgur.com/IG7zwFI.png"
+      }
+    },
+    "name": "Anachronize",
+    "type": "Action",
+    "cost": 5,
+    "identity": "Emerald, Topaz"
+  },
+  "JTD-115": {
+    "id": "JTD-115",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Clockwork Junksmith"
+        },
+        "type": "Character",
+        "cost": 2,
+        "identity": "Emerald, Topaz",
+        "class": "Human, Engineer",
+        "strength": 5,
+        "vitals": 7,
+        "image": "https://i.imgur.com/UeZvhL2.png"
+      }
+    },
+    "name": "Clockwork Junksmith",
+    "type": "Character",
+    "cost": 2,
+    "identity": "Emerald, Topaz",
+    "class": "Human, Engineer",
+    "strength": 5,
+    "vitals": 7
+  },
+  "JTD-116": {
+    "id": "JTD-116",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Electric Effigy"
+        },
+        "type": "Device",
+        "cost": 3,
+        "identity": "Emerald, Topaz",
+        "class": "Machine",
+        "maintenance": 10,
+        "image": "https://i.imgur.com/RSQRqbX.png"
+      }
+    },
+    "name": "Electric Effigy",
+    "type": "Device",
+    "cost": 3,
+    "identity": "Emerald, Topaz",
+    "class": "Machine",
+    "maintenance": 10
+  },
+  "JTD-117": {
+    "id": "JTD-117",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crash Landing"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Ruby, Sapphire",
+        "image": "https://i.imgur.com/MqiymnU.png"
+      }
+    },
+    "name": "Crash Landing",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Ruby, Sapphire"
+  },
+  "JTD-118": {
+    "id": "JTD-118",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sensory Overload"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Ruby, Sapphire",
+        "image": "https://i.imgur.com/Bsb9FDU.png"
+      }
+    },
+    "name": "Sensory Overload",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Ruby, Sapphire"
+  },
+  "JTD-119": {
+    "id": "JTD-119",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Slithering Saboteur"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Ruby, Sapphire",
+        "class": "Xaal, Marauder",
+        "strength": 9,
+        "vitals": 5,
+        "image": "https://i.imgur.com/BY4Gi77.png"
+      }
+    },
+    "name": "Slithering Saboteur",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Ruby, Sapphire",
+    "class": "Xaal, Marauder",
+    "strength": 9,
+    "vitals": 5
+  },
+  "JTD-120": {
+    "id": "JTD-120",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blood Chalice"
+        },
+        "type": "Device",
+        "cost": 3,
+        "identity": "Ruby, Topaz",
+        "class": "Accessory",
+        "maintenance": 8,
+        "image": "https://i.imgur.com/4jhcSuD.png"
+      }
+    },
+    "name": "Blood Chalice",
+    "type": "Device",
+    "cost": 3,
+    "identity": "Ruby, Topaz",
+    "class": "Accessory",
+    "maintenance": 8
+  },
+  "JTD-121": {
+    "id": "JTD-121",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Igneous Inquisitor"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Ruby, Topaz",
+        "class": "Tektin, Warrior",
+        "strength": 8,
+        "vitals": 8,
+        "image": "https://i.imgur.com/r9bxJgP.png"
+      }
+    },
+    "name": "Igneous Inquisitor",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Ruby, Topaz",
+    "class": "Tektin, Warrior",
+    "strength": 8,
+    "vitals": 8
+  },
+  "JTD-122": {
+    "id": "JTD-122",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Immolate"
+        },
+        "type": "Action",
+        "cost": 2,
+        "identity": "Ruby, Topaz",
+        "image": "https://i.imgur.com/cZ3MvYJ.png"
+      }
+    },
+    "name": "Immolate",
+    "type": "Action",
+    "cost": 2,
+    "identity": "Ruby, Topaz"
+  },
+  "JTD-123": {
+    "id": "JTD-123",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mutated Martyr"
+        },
+        "type": "Character",
+        "cost": 3,
+        "identity": "Sapphire, Topaz",
+        "class": "Metahuman, Disciple",
+        "strength": 6,
+        "vitals": 10,
+        "image": "https://i.imgur.com/9Zw437Q.png"
+      }
+    },
+    "name": "Mutated Martyr",
+    "type": "Character",
+    "cost": 3,
+    "identity": "Sapphire, Topaz",
+    "class": "Metahuman, Disciple",
+    "strength": 6,
+    "vitals": 10
+  },
+  "JTD-124": {
+    "id": "JTD-124",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Revitalize"
+        },
+        "type": "Action",
+        "cost": 5,
+        "identity": "Sapphire, Topaz",
+        "image": "https://i.imgur.com/Br3f0BM.png"
+      }
+    },
+    "name": "Revitalize",
+    "type": "Action",
+    "cost": 5,
+    "identity": "Sapphire, Topaz"
+  },
+  "JTD-125": {
+    "id": "JTD-125",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Staunch Resistance"
+        },
+        "type": "Action",
+        "cost": 3,
+        "identity": "Sapphire, Topaz",
+        "image": "https://i.imgur.com/axF5vhX.png"
+      }
+    },
+    "name": "Staunch Resistance",
+    "type": "Action",
+    "cost": 3,
+    "identity": "Sapphire, Topaz"
+  },
+  "JTD-126": {
+    "id": "JTD-126",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amethyst Deposit"
+        },
+        "type": "Common Gem",
+        "cost": 0,
+        "identity": "Amethyst",
+        "class": "Amethyst",
+        "image": "https://i.imgur.com/8KHWGSe.png"
+      }
+    },
+    "name": "Amethyst Deposit",
+    "type": "Common Gem",
+    "cost": 0,
+    "identity": "Amethyst",
+    "class": "Amethyst"
+  },
+  "JTD-127": {
+    "id": "JTD-127",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emerald Deposit"
+        },
+        "type": "Common Gem",
+        "cost": 0,
+        "identity": "Emerald",
+        "class": "Emerald",
+        "image": "https://i.imgur.com/yR4LbU7.png"
+      }
+    },
+    "name": "Emerald Deposit",
+    "type": "Common Gem",
+    "cost": 0,
+    "identity": "Emerald",
+    "class": "Emerald"
+  },
+  "JTD-128": {
+    "id": "JTD-128",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ruby Deposit"
+        },
+        "type": "Common Gem",
+        "cost": 0,
+        "identity": "Ruby",
+        "class": "Ruby",
+        "image": "https://i.imgur.com/4FbOERX.png"
+      }
+    },
+    "name": "Ruby Deposit",
+    "type": "Common Gem",
+    "cost": 0,
+    "identity": "Ruby",
+    "class": "Ruby"
+  },
+  "JTD-129": {
+    "id": "JTD-129",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sapphire Deposit"
+        },
+        "type": "Common Gem",
+        "cost": 0,
+        "identity": "Sapphire",
+        "class": "Sapphire",
+        "image": "https://i.imgur.com/Dwz97tJ.png"
+      }
+    },
+    "name": "Sapphire Deposit",
+    "type": "Common Gem",
+    "cost": 0,
+    "identity": "Sapphire",
+    "class": "Sapphire"
+  },
+  "JTD-130": {
+    "id": "JTD-130",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Topaz Deposit"
+        },
+        "type": "Common Gem",
+        "cost": 0,
+        "identity": "Topaz",
+        "class": "Topaz",
+        "image": "https://i.imgur.com/j5ixlWV.png"
+      }
+    },
+    "name": "Topaz Deposit",
+    "type": "Common Gem",
+    "cost": 0,
+    "identity": "Topaz",
+    "class": "Topaz"
+  },
+  "JTD-131": {
+    "id": "JTD-131",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cambrian Heirloom"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Amethyst, Sapphire",
+        "class": "Amethyst, Sapphire",
+        "image": "https://i.imgur.com/ymnpPk9.png"
+      }
+    },
+    "name": "Cambrian Heirloom",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Amethyst, Sapphire",
+    "class": "Amethyst, Sapphire"
+  },
+  "JTD-132": {
+    "id": "JTD-132",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crucible Prototype"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Amethyst, Topaz",
+        "class": "Amethyst, Topaz",
+        "image": "https://i.imgur.com/QVzFAMp.png"
+      }
+    },
+    "name": "Crucible Prototype",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Amethyst, Topaz",
+    "class": "Amethyst, Topaz"
+  },
+  "JTD-133": {
+    "id": "JTD-133",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gaudy Crown"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Amethyst, Ruby",
+        "class": "Amethyst, Ruby",
+        "image": "https://i.imgur.com/Hdux3wZ.png"
+      }
+    },
+    "name": "Gaudy Crown",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Amethyst, Ruby",
+    "class": "Amethyst, Ruby"
+  },
+  "JTD-134": {
+    "id": "JTD-134",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Matriarch's Mask"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Emerald, Sapphire",
+        "class": "Emerald, Sapphire",
+        "image": "https://i.imgur.com/ApQAgf8.png"
+      }
+    },
+    "name": "Matriarch's Mask",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Emerald, Sapphire",
+    "class": "Emerald, Sapphire"
+  },
+  "JTD-135": {
+    "id": "JTD-135",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Missionary's Charm"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Emerald, Topaz",
+        "class": "Emerald, Topaz",
+        "image": "https://i.imgur.com/tgTtjZl.png"
+      }
+    },
+    "name": "Missionary's Charm",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Emerald, Topaz",
+    "class": "Emerald, Topaz"
+  },
+  "JTD-136": {
+    "id": "JTD-136",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Official's Badge"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Emerald, Ruby",
+        "class": "Emerald, Ruby",
+        "image": "https://i.imgur.com/jc7QUBu.png"
+      }
+    },
+    "name": "Official's Badge",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Emerald, Ruby",
+    "class": "Emerald, Ruby"
+  },
+  "JTD-137": {
+    "id": "JTD-137",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ring of Blinding Faith"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Ruby, Topaz",
+        "class": "Ruby, Topaz",
+        "image": "https://i.imgur.com/xGSY2xF.png"
+      }
+    },
+    "name": "Ring of Blinding Faith",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Ruby, Topaz",
+    "class": "Ruby, Topaz"
+  },
+  "JTD-138": {
+    "id": "JTD-138",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stolen Cache"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Ruby, Sapphire",
+        "class": "Ruby, Sapphire",
+        "image": "https://i.imgur.com/SuCD589.png"
+      }
+    },
+    "name": "Stolen Cache",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Ruby, Sapphire",
+    "class": "Ruby, Sapphire"
+  },
+  "JTD-139": {
+    "id": "JTD-139",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasured Urn"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Amethyst, Emerald",
+        "class": "Amethyst, Emerald",
+        "image": "https://i.imgur.com/sT53IHp.png"
+      }
+    },
+    "name": "Treasured Urn",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Amethyst, Emerald",
+    "class": "Amethyst, Emerald"
+  },
+  "JTD-140": {
+    "id": "JTD-140",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Warped Idol"
+        },
+        "type": "Rare Gem",
+        "cost": 0,
+        "identity": "Sapphire, Topaz",
+        "class": "Sapphire, Topaz",
+        "image": "https://i.imgur.com/BQlFV0q.png"
+      }
+    },
+    "name": "Warped Idol",
+    "type": "Rare Gem",
+    "cost": 0,
+    "identity": "Sapphire, Topaz",
+    "class": "Sapphire, Topaz"
+  },
+  "JTD-TK1": {
+    "id": "JTD-TK1",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Disciple"
+        },
+        "type": "Character",
+        "cost": 0,
+        "identity": "Topaz",
+        "class": "Human, Disciple",
+        "strength": 1,
+        "vitals": 1,
+        "image": "https://i.imgur.com/6iZBn4H.png"
+      }
+    },
+    "name": "Disciple",
+    "type": "Character",
+    "cost": 0,
+    "identity": "Topaz",
+    "class": "Human, Disciple",
+    "strength": 1,
+    "vitals": 1,
+    "isToken": "TRUE"
+  },
+  "JTD-TK2": {
+    "id": "JTD-TK2",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amethyst Hologram"
+        },
+        "type": "Hologram",
+        "cost": 0,
+        "identity": "Amethyst",
+        "class": "Amethyst",
+        "image": "https://i.imgur.com/N0zFAhg.png"
+      }
+    },
+    "name": "Amethyst Hologram",
+    "type": "Hologram",
+    "cost": 0,
+    "identity": "Amethyst",
+    "class": "Amethyst",
+    "isToken": "TRUE"
+  },
+  "JTD-TK3": {
+    "id": "JTD-TK3",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emerald Hologram"
+        },
+        "type": "Hologram",
+        "cost": 0,
+        "identity": "Emerald",
+        "class": "Emerald",
+        "image": "https://i.imgur.com/glnZDli.png"
+      }
+    },
+    "name": "Emerald Hologram",
+    "type": "Hologram",
+    "cost": 0,
+    "identity": "Emerald",
+    "class": "Emerald",
+    "isToken": "TRUE"
+  },
+  "JTD-TK4": {
+    "id": "JTD-TK4",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ruby Hologram"
+        },
+        "type": "Hologram",
+        "cost": 0,
+        "identity": "Ruby",
+        "class": "Ruby",
+        "image": "https://i.imgur.com/3cijuk5.png"
+      }
+    },
+    "name": "Ruby Hologram",
+    "type": "Hologram",
+    "cost": 0,
+    "identity": "Ruby",
+    "class": "Ruby",
+    "isToken": "TRUE"
+  },
+  "JTD-TK5": {
+    "id": "JTD-TK5",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sapphire Hologram"
+        },
+        "type": "Hologram",
+        "cost": 0,
+        "identity": "Sapphire",
+        "class": "Sapphire",
+        "image": "https://i.imgur.com/Bom1mxY.png"
+      }
+    },
+    "name": "Sapphire Hologram",
+    "type": "Hologram",
+    "cost": 0,
+    "identity": "Sapphire",
+    "class": "Sapphire",
+    "isToken": "TRUE"
+  },
+  "JTD-TK6": {
+    "id": "JTD-TK6",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Topaz Hologram"
+        },
+        "type": "Hologram",
+        "cost": 0,
+        "identity": "Topaz",
+        "class": "Topaz",
+        "image": "https://i.imgur.com/HvIlfIY.png"
+      }
+    },
+    "name": "Topaz Hologram",
+    "type": "Hologram",
+    "cost": 0,
+    "identity": "Topaz",
+    "class": "Topaz",
+    "isToken": "TRUE"
+  },
+  "JTD-TK7": {
+    "id": "JTD-TK7",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Badge of Dishonor"
+        },
+        "type": "Badge",
+        "cost": "",
+        "image": "https://i.imgur.com/HvIlfIY.png"
+      }
+    },
+    "name": "Badge of Dishonor",
+    "type": "Badge",
+    "cost": "",
+    "isToken": "TRUE"
+  }
+}
